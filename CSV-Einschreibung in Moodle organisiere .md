@@ -113,7 +113,7 @@ Welche Aussage beschreibt den Zweck dieses Kurses am treffendsten?
 
 ## Modul 1: Kohorten fachlich sauber einordnen
 
-![Illustration Modul 1: Ein Admin, eine Bereichsverantwortliche und eine Person aus dem Sekretariat stehen vor einer Moodle-Tafel. Karten mit Nutzer:innen, Kohorten, Kursen, Gruppen und Rollen werden in eine klare Prozesslogik sortiert. Comic-Stil, sachlich und übersichtlich.](kohorten_csv_modul1.png "Modul 1 – Kohorten fachlich einordnen")
+![Illustration Modul 1: Ein Admin, eine Bereichsverantwortliche und eine Person aus dem Sekretariat stehen vor einer Moodle-Tafel. Karten mit Nutzer:innen, Kohorten, Kursen, Gruppen und Rollen werden in eine klare Prozesslogik sortiert. Comic-Stil, sachlich und übersichtlich.](Modul1.png "Modul 1 – Kohorten fachlich einordnen")
 
 ### 1.1 Die zentrale Unterscheidung
 
@@ -191,7 +191,7 @@ Ordnen Sie die folgenden Elemente dem passenden Baustein zu.
 
 ## Modul 2: CSV-Datenmodell prüfen
 
-![Illustration Modul 2: Eine große CSV-Tabelle liegt auf einem Schreibtisch. Markierte Spalten wie username, firstname, lastname, email und cohort1 werden mit einer Moodle-Checkliste abgeglichen. Comic-Stil, klar und praxistauglich.](kohorten_csv_modul2.png "Modul 2 – CSV-Datenmodell prüfen")
+![Illustration Modul 2: Eine große CSV-Tabelle liegt auf einem Schreibtisch. Markierte Spalten wie username, firstname, lastname, email und cohort1 werden mit einer Moodle-Checkliste abgeglichen. Comic-Stil, klar und praxistauglich.](Modul2.png "Modul 2 – CSV-Datenmodell prüfen")
 
 ### 2.1 CSV ist kein Excel-Problem, sondern ein Datenmodell
 
@@ -308,7 +308,7 @@ Ordnen Sie die Spalten der passenden Funktion zu.
 
 ## Modul 3: Upload-Simulation und Mapping
 
-![Illustration Modul 3: Auf einem Bildschirm ist eine Moodle-Voransicht für einen CSV-Upload zu sehen. Daneben liegt eine Checkliste mit den Schritten Testinstanz, Voransicht, Fehlerkorrektur und Produktivimport. Comic-Stil, konzentrierte Arbeitsatmosphäre.](kohorten_csv_modul3.png "Modul 3 – Upload-Simulation und Mapping")
+![Illustration Modul 3: Auf einem Bildschirm ist eine Moodle-Voransicht für einen CSV-Upload zu sehen. Daneben liegt eine Checkliste mit den Schritten Testinstanz, Voransicht, Fehlerkorrektur und Produktivimport. Comic-Stil, konzentrierte Arbeitsatmosphäre.](Modul3.png "Modul 3 – Upload-Simulation und Mapping")
 
 ### 3.1 Der sichere Importablauf
 
@@ -429,7 +429,7 @@ Kollegium FS Sozialpädagogik,kollegium_fs_sozpaed,Lehrkräfte und Funktionsroll
 
 ## Modul 4: Fehlersuche und Mini-Fallstudie
 
-![Illustration Modul 4: Eine Checkliste mit roten Markierungen liegt neben einer CSV-Tabelle. Drei Personen prüfen gemeinsam Fehler: doppelte E-Mail, falsche Kohorten-ID und fehlender Nachname. Comic-Stil, ruhig und lösungsorientiert.](kohorten_csv_modul4.png "Modul 4 – Fehlersuche und Mini-Fallstudie")
+![Illustration Modul 4: Eine Checkliste mit roten Markierungen liegt neben einer CSV-Tabelle. Drei Personen prüfen gemeinsam Fehler: doppelte E-Mail, falsche Kohorten-ID und fehlender Nachname. Comic-Stil, ruhig und lösungsorientiert.](Modul4.png "Modul 4 – Fehlersuche und Mini-Fallstudie")
 
 ### 4.1 Fehlerhafte CSV-Datei
 
@@ -516,7 +516,7 @@ Eine Fachschule startet in zwei Wochen mit zwei neuen Klassen. Das Sekretariat l
 
 ## Abschluss: Serienprozess für den Schuljahresstart
 
-![Illustration Abschluss: Ein klarer Jahresstart-Prozess liegt als Checkliste auf einem Tisch. Admin, Bereichsverantwortliche und Sekretariat haken gemeinsam Schritte ab: Datenstand, CSV, Testupload, Freigabe, Produktivimport. Comic-Stil, klar und praxisnah.](kohorten_csv_abschluss.png "Abschluss – Serienprozess sichern")
+![Illustration Abschluss: Ein klarer Jahresstart-Prozess liegt als Checkliste auf einem Tisch. Admin, Bereichsverantwortliche und Sekretariat haken gemeinsam Schritte ab: Datenstand, CSV, Testupload, Freigabe, Produktivimport. Comic-Stil, klar und praxisnah.](Abschluss.png "Abschluss – Serienprozess sichern")
 
 ### Rückblick
 
